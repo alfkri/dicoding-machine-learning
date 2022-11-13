@@ -8,10 +8,10 @@ Kurikulum lengkap yang disusun oleh Dicoding bersama IBM dan Google beserta pela
 - [x] [Machine Learning Terapan](https://www.dicoding.com/academies/319)
 
 # Submission 
-* Belajar Machine Learning untuk Pemula [[<--click here-->]](https://github.com/alfkri/dicoding-machine-learning/tree/Belajar-Machine-Learning-untuk-Pemula)
-* Belajar Pengembangan Machine Learning [[<--click here-->]](https://github.com/alfkri/dicoding-machine-learning/tree/Pengembangan-Machine-Learning)
-* Machine Learning Terapan: Predictive Analytics [[<--click here-->]](https://github.com/alfkri/dicoding-machine-learning/tree/MLT-Predictive_Analytics)
-* Machine Learning Terapan: Recommendation System [[<--click here-->]](https://github.com/alfkri/dicoding-machine-learning/tree/MLT-Recommendation_System)
+* Belajar Machine Learning untuk Pemula [[click here]](https://github.com/alfkri/dicoding-machine-learning/tree/Belajar-Machine-Learning-untuk-Pemula)
+* Belajar Pengembangan Machine Learning [[click here]](https://github.com/alfkri/dicoding-machine-learning/tree/Pengembangan-Machine-Learning)
+* Machine Learning Terapan: Predictive Analytics [[click here]](https://github.com/alfkri/dicoding-machine-learning/tree/MLT-Predictive_Analytics)
+* Machine Learning Terapan: Recommendation System [[click here]](https://github.com/alfkri/dicoding-machine-learning/tree/MLT-Recommendation_System)
 
 
 # Result
